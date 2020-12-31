@@ -1,4 +1,4 @@
-# codons
+# Codons
 Translation of nucleotides in the mRNA into a sequence of amino acids using the genetic code
 
 Genes provide instructions for the formation of proteins and are expressed in two steps: transcription and translation. 
